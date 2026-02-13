@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "description": "我的自定义工具 ig",
+    "homepage": "https://github.com/你的用户名/你的仓库名",
+    "url": "https://rueyyuan.github.io/ig/ig.exe",
+    "hash": "7212A826CB2A3D5ECC8DBEDF0CEBAF31E2723E63333F2AF83A03950263D65864",
+    "bin": "ig.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://rueyyuan.github.io/ig/ig.exe"
+    }
+}
